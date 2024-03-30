@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\bin\Debug\net8.0\tryParse.exe
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\bin\Debug\net8.0\tryParse.deps.json
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\bin\Debug\net8.0\tryParse.runtimeconfig.json
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\bin\Debug\net8.0\tryParse.dll
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\bin\Debug\net8.0\tryParse.pdb
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\obj\Debug\net8.0\tryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\obj\Debug\net8.0\tryParse.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\obj\Debug\net8.0\tryParse.AssemblyInfo.cs
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\obj\Debug\net8.0\tryParse.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\obj\Debug\net8.0\tryParse.dll
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\obj\Debug\net8.0\refint\tryParse.dll
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\obj\Debug\net8.0\tryParse.pdb
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\obj\Debug\net8.0\tryParse.genruntimeconfig.cache
+C:\Users\Alex\Desktop\start C\extracurricular activities\tryParse\obj\Debug\net8.0\ref\tryParse.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "last_Lesson(recursion)/1.0.0": {
+        "runtime": {
+          "last_Lesson(recursion).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "last_Lesson(recursion)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

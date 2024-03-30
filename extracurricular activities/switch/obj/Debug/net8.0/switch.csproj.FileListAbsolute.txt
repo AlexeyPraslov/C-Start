@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\bin\Debug\net8.0\switch.exe
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\bin\Debug\net8.0\switch.deps.json
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\bin\Debug\net8.0\switch.runtimeconfig.json
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\bin\Debug\net8.0\switch.dll
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\bin\Debug\net8.0\switch.pdb
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\obj\Debug\net8.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\obj\Debug\net8.0\switch.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\obj\Debug\net8.0\switch.AssemblyInfo.cs
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\obj\Debug\net8.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\obj\Debug\net8.0\switch.dll
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\obj\Debug\net8.0\refint\switch.dll
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\obj\Debug\net8.0\switch.pdb
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\obj\Debug\net8.0\switch.genruntimeconfig.cache
+C:\Users\Alex\Desktop\start C\extracurricular activities\switch\obj\Debug\net8.0\ref\switch.dll

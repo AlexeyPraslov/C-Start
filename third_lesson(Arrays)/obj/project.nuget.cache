@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G2FOe5etgjpDxwN4REu8WQVkdGa02PS4qmzzJomjyff+gbhcbgJXzpL3bvFaSmKReNKcIPUUXXGWqSlehQuLSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\start C\\third_lesson(Arrays)\\third_lesson(Arrays).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

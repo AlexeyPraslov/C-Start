@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\start C\first_lesson\bin\Debug\net7.0\first_lesson.exe
+C:\Users\Alex\Desktop\start C\first_lesson\bin\Debug\net7.0\first_lesson.deps.json
+C:\Users\Alex\Desktop\start C\first_lesson\bin\Debug\net7.0\first_lesson.runtimeconfig.json
+C:\Users\Alex\Desktop\start C\first_lesson\bin\Debug\net7.0\first_lesson.dll
+C:\Users\Alex\Desktop\start C\first_lesson\bin\Debug\net7.0\first_lesson.pdb
+C:\Users\Alex\Desktop\start C\first_lesson\obj\Debug\net7.0\first_lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\start C\first_lesson\obj\Debug\net7.0\first_lesson.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\start C\first_lesson\obj\Debug\net7.0\first_lesson.AssemblyInfo.cs
+C:\Users\Alex\Desktop\start C\first_lesson\obj\Debug\net7.0\first_lesson.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\start C\first_lesson\obj\Debug\net7.0\first_lesson.dll
+C:\Users\Alex\Desktop\start C\first_lesson\obj\Debug\net7.0\refint\first_lesson.dll
+C:\Users\Alex\Desktop\start C\first_lesson\obj\Debug\net7.0\first_lesson.pdb
+C:\Users\Alex\Desktop\start C\first_lesson\obj\Debug\net7.0\first_lesson.genruntimeconfig.cache
+C:\Users\Alex\Desktop\start C\first_lesson\obj\Debug\net7.0\ref\first_lesson.dll

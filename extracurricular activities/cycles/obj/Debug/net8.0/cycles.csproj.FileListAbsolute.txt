@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\bin\Debug\net8.0\cycles.exe
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\bin\Debug\net8.0\cycles.deps.json
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\bin\Debug\net8.0\cycles.runtimeconfig.json
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\bin\Debug\net8.0\cycles.dll
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\bin\Debug\net8.0\cycles.pdb
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\obj\Debug\net8.0\cycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\obj\Debug\net8.0\cycles.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\obj\Debug\net8.0\cycles.AssemblyInfo.cs
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\obj\Debug\net8.0\cycles.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\obj\Debug\net8.0\cycles.dll
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\obj\Debug\net8.0\refint\cycles.dll
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\obj\Debug\net8.0\cycles.pdb
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\obj\Debug\net8.0\cycles.genruntimeconfig.cache
+C:\Users\Alex\Desktop\start C\extracurricular activities\cycles\obj\Debug\net8.0\ref\cycles.dll

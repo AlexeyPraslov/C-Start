@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\start C\Arrays&Rows\bin\Debug\net8.0\Arrays&Rows.exe
+C:\Users\Alex\Desktop\start C\Arrays&Rows\bin\Debug\net8.0\Arrays&Rows.deps.json
+C:\Users\Alex\Desktop\start C\Arrays&Rows\bin\Debug\net8.0\Arrays&Rows.runtimeconfig.json
+C:\Users\Alex\Desktop\start C\Arrays&Rows\bin\Debug\net8.0\Arrays&Rows.dll
+C:\Users\Alex\Desktop\start C\Arrays&Rows\bin\Debug\net8.0\Arrays&Rows.pdb
+C:\Users\Alex\Desktop\start C\Arrays&Rows\obj\Debug\net8.0\Arrays&Rows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\start C\Arrays&Rows\obj\Debug\net8.0\Arrays&Rows.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\start C\Arrays&Rows\obj\Debug\net8.0\Arrays&Rows.AssemblyInfo.cs
+C:\Users\Alex\Desktop\start C\Arrays&Rows\obj\Debug\net8.0\Arrays&Rows.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\start C\Arrays&Rows\obj\Debug\net8.0\Arrays&Rows.dll
+C:\Users\Alex\Desktop\start C\Arrays&Rows\obj\Debug\net8.0\refint\Arrays&Rows.dll
+C:\Users\Alex\Desktop\start C\Arrays&Rows\obj\Debug\net8.0\Arrays&Rows.pdb
+C:\Users\Alex\Desktop\start C\Arrays&Rows\obj\Debug\net8.0\Arrays&Rows.genruntimeconfig.cache
+C:\Users\Alex\Desktop\start C\Arrays&Rows\obj\Debug\net8.0\ref\Arrays&Rows.dll

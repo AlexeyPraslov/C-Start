@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\bin\Debug\net8.0\fourth_lesson(function).exe
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\bin\Debug\net8.0\fourth_lesson(function).deps.json
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\bin\Debug\net8.0\fourth_lesson(function).runtimeconfig.json
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\bin\Debug\net8.0\fourth_lesson(function).dll
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\bin\Debug\net8.0\fourth_lesson(function).pdb
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\obj\Debug\net8.0\fourth_lesson(function).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\obj\Debug\net8.0\fourth_lesson(function).AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\obj\Debug\net8.0\fourth_lesson(function).AssemblyInfo.cs
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\obj\Debug\net8.0\fourth_lesson(function).csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\obj\Debug\net8.0\fourth_lesson(function).dll
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\obj\Debug\net8.0\refint\fourth_lesson(function).dll
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\obj\Debug\net8.0\fourth_lesson(function).pdb
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\obj\Debug\net8.0\fourth_lesson(function).genruntimeconfig.cache
+C:\Users\Alex\Desktop\start C\fourth_lesson(function)\obj\Debug\net8.0\ref\fourth_lesson(function).dll

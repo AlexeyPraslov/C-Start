@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\bin\Debug\net8.0\meyhod_TryParse.exe
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\bin\Debug\net8.0\meyhod_TryParse.deps.json
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\bin\Debug\net8.0\meyhod_TryParse.runtimeconfig.json
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\bin\Debug\net8.0\meyhod_TryParse.dll
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\bin\Debug\net8.0\meyhod_TryParse.pdb
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\obj\Debug\net8.0\meyhod_TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\obj\Debug\net8.0\meyhod_TryParse.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\obj\Debug\net8.0\meyhod_TryParse.AssemblyInfo.cs
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\obj\Debug\net8.0\meyhod_TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\obj\Debug\net8.0\meyhod_TryParse.dll
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\obj\Debug\net8.0\refint\meyhod_TryParse.dll
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\obj\Debug\net8.0\meyhod_TryParse.pdb
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\obj\Debug\net8.0\meyhod_TryParse.genruntimeconfig.cache
+C:\Users\Alex\Desktop\start C\meyhod_TryParse\obj\Debug\net8.0\ref\meyhod_TryParse.dll

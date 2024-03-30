@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\bin\Debug\net8.0\last_Lesson(recursion).exe
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\bin\Debug\net8.0\last_Lesson(recursion).deps.json
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\bin\Debug\net8.0\last_Lesson(recursion).runtimeconfig.json
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\bin\Debug\net8.0\last_Lesson(recursion).dll
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\bin\Debug\net8.0\last_Lesson(recursion).pdb
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\obj\Debug\net8.0\last_Lesson(recursion).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\obj\Debug\net8.0\last_Lesson(recursion).AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\obj\Debug\net8.0\last_Lesson(recursion).AssemblyInfo.cs
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\obj\Debug\net8.0\last_Lesson(recursion).csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\obj\Debug\net8.0\last_Lesson(recursion).dll
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\obj\Debug\net8.0\refint\last_Lesson(recursion).dll
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\obj\Debug\net8.0\last_Lesson(recursion).pdb
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\obj\Debug\net8.0\last_Lesson(recursion).genruntimeconfig.cache
+C:\Users\Alex\Desktop\start C\last_Lesson(recursion)\obj\Debug\net8.0\ref\last_Lesson(recursion).dll

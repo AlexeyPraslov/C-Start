@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "meyhod_TryParse/1.0.0": {
+        "runtime": {
+          "meyhod_TryParse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "meyhod_TryParse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

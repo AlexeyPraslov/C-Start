@@ -1,0 +1,14 @@
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\obj\Debug\net7.0\third_lesson(Arrays).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\obj\Debug\net7.0\third_lesson(Arrays).AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\obj\Debug\net7.0\third_lesson(Arrays).AssemblyInfo.cs
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\obj\Debug\net7.0\third_lesson(Arrays).csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\bin\Debug\net7.0\third_lesson(Arrays).exe
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\bin\Debug\net7.0\third_lesson(Arrays).deps.json
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\bin\Debug\net7.0\third_lesson(Arrays).runtimeconfig.json
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\bin\Debug\net7.0\third_lesson(Arrays).dll
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\bin\Debug\net7.0\third_lesson(Arrays).pdb
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\obj\Debug\net7.0\third_lesson(Arrays).dll
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\obj\Debug\net7.0\refint\third_lesson(Arrays).dll
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\obj\Debug\net7.0\third_lesson(Arrays).pdb
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\obj\Debug\net7.0\third_lesson(Arrays).genruntimeconfig.cache
+C:\Users\Alex\Desktop\start C\third_lesson(Arrays)\obj\Debug\net7.0\ref\third_lesson(Arrays).dll
